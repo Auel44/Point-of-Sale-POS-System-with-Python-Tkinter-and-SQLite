@@ -160,7 +160,7 @@ Admin
 Manager
 
 - Username: eabbebn
-- Password: Ebenezerabban20@
+- Password: Comeandsee20@
 
 Cashier
 
